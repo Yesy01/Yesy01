@@ -13,7 +13,7 @@ Sora for body text
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=18&pause=1200&color=FFAB00&center=true&vCenter=true&width=1000&height=600&lines=YESIRAT+ADESOLA+SANNI;TINKERER.DYNAMO.DEVOTEE+;I+LOVE+LEARNING." alt="Typing Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=18&pause=1200&color=FFAB00&center=true&vCenter=true&width=1000&lines=YESIRAT+ADESOLA+SANNI;TINKERER.DYNAMO.DEVOTEE+;I+LOVE+LEARNING." alt="Typing Header" />
 </p>
 
 
@@ -84,8 +84,8 @@ Short sentence saying what it does and why it matters.
 ## Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg" />
-  <img alt="github contribution snake" src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Yesy01/Yesy01/blob/output/github-snake-dark.svg" />
+  <img alt="github contribution snake" src="https://github.com/Yesy01/Yesy01/blob/output/github-snake.svg" />
 </picture>
 
 ## Tech Stack
@@ -104,16 +104,16 @@ Short sentence saying what it does and why it matters.
 ## Stats
 
 <p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&title_color=FFAB00&text_color=F5F5F5&icon_color=FFAB00&border_color=2C2C2C" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Yesy01&show_icons=true&theme=transparent&title_color=FFAB00&text_color=F5F5F5&icon_color=FFAB00&border_color=2C2C2C" />
 </p>
 
 <p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&title_color=FFAB00&text_color=F5F5F5&border_color=2C2C2C" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yesy01&layout=compact&theme=transparent&title_color=FFAB00&text_color=F5F5F5&border_color=2C2C2C" />
 </p>
 
 <!-- Alternative streak card if you prefer it over top languages
 <p>
-  <img height="170" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&ring=FFAB00&fire=FFAB00&currStreakLabel=FFAB00&sideLabels=F5F5F5&dates=F5F5F5&border=2C2C2C" />
+  <img height="170" src="https://streak-stats.demolab.com?user=Yesy01&theme=transparent&ring=FFAB00&fire=FFAB00&currStreakLabel=FFAB00&sideLabels=F5F5F5&dates=F5F5F5&border=2C2C2C" />
 </p>
 -->
 
