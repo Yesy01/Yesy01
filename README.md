@@ -11,12 +11,9 @@ IBM Plex Mono for headings / code-style text
 Sora for body text
 -->
 
-<p align="center">
-  <img src="./images /banner.png" alt="Banner" width="100%" />
-</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=18&pause=1200&color=FFAB00&center=true&vCenter=true&width=900&lines=YESIRAT+ADESOLA+SANNI;TINKERER.DYNAMO.DEVOTEE+;I+LOVE+LEARNING." alt="Typing Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=18&pause=1200&color=FFAB00&center=true&vCenter=true&width=1000&height=600&lines=YESIRAT+ADESOLA+SANNI;TINKERER.DYNAMO.DEVOTEE+;I+LOVE+LEARNING." alt="Typing Header" />
 </p>
 
 
@@ -81,6 +78,15 @@ Short sentence saying what it does and why it matters.
 **Preview:** [screenshot or banner image](#)
 
 <br>
+
+
+
+## Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg" />
+  <img alt="github contribution snake" src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake.svg" />
+</picture>
 
 ## Tech Stack
 
