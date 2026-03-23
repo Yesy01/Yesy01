@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=18&pause=1200&color=FFAB00&center=true&vCenter=true&width=1000&lines=YESIRAT+ADESOLA+SANNI;SYSTEMS;APPLIED+CRYPTOGRAPHY+%2B+DECENTRALIZED+SYSTEMS;LEARNING+LOUDLY.+BUILDING+CAREFULLY.; FUN.+WORK.+EAT.+CATS.+LOVE." alt="Typing Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=18&pause=1200&color=FFAB00&center=true&vCenter=true&width=1000&lines=YESIRAT+ADESOLA+SANNI;SYSTEMS+%2B+APPLIED+CRYPTOGRAPHY+%2B+DECENTRALIZED+SYSTEMS;LEARNING+LOUDLY.+BUILDING+CAREFULLY.;FUN.+WORK.+EAT.+CATS.+LOVE." alt="Typing Header" />
 </p>
 
 ## Hi, I'm Yesirat.
