@@ -52,15 +52,15 @@ This profile is part of the same work as my website: still evolving, getting cle
 ## Stats
 
 <p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Yesy01&show_icons=true&theme=transparent&title_color=FFAB00&text_color=F5F5F5&icon_color=FFAB00&border_color=2C2C2C" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yesy01&layout=compact&theme=transparent&title_color=FFAB00&text_color=F5F5F5&border_color=2C2C2C" alt="Top languages" />
+  <img height="170" src="./profile/stats.svg" alt="GitHub stats" />
+  <img height="170" src="./profile/top-langs.svg" alt="Top languages" />
 </p>
 
 ## Contact
 
 - GitHub: [@Yesy01](https://github.com/Yesy01)
 - Email: [yesiratsanni49@gmail.com](mailto:yesiratsanni49@gmail.com)
-- Portfolio: in progress
+- Portfolio: [yesy01.github.io/YesiratSanni](https://yesy01.github.io/YesiratSanni)
 
 ---
 
