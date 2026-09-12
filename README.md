@@ -17,9 +17,9 @@ My interests sit at the intersection of intentional web experiences, applied cry
 I enjoy interacting with people, and I am often surprised by the tangents that great conversations can take. A lot of what I am doing right now is exploring, learning, and becoming more honest about what I want to build.
 
 <p>
-  <img src="https://img.shields.io/badge/BUILDING-Stronger%20Solutions%20to%20PKI-2C2C2C?style=flat-square&logo=letsencrypt&logoColor=FFAB00" alt="Building stronger solutions to PKI" />
-  <img src="https://img.shields.io/badge/LEARNING-Rust%20%2B%20ZKPs-2C2C2C?style=flat-square&logo=rust&logoColor=FFAB00" alt="Learning Rust and zero-knowledge proofs" />
-  <img src="https://img.shields.io/badge/COLLABORATING-Hackathons%20%2B%20Research-2C2C2C?style=flat-square&logo=githubsponsors&logoColor=FFAB00" alt="Collaborating on hackathons and independent research" />
+  <img src="https://img.shields.io/badge/BUILDING-Stronger%20Solutions%20to%20PKI-2C2C2C?style=for-the-badge&logo=letsencrypt&logoColor=FFAB00&labelColor=111827" alt="Building stronger solutions to PKI" />
+  <img src="https://img.shields.io/badge/LEARNING-Rust%20%2B%20ZKPs-2C2C2C?style=for-the-badge&logo=rust&logoColor=FFAB00&labelColor=111827" alt="Learning Rust and zero-knowledge proofs" />
+  <img src="https://img.shields.io/badge/COLLABORATING-Hackathons%20%2B%20Research-2C2C2C?style=for-the-badge&logo=github&logoColor=FFAB00&labelColor=111827" alt="Collaborating on hackathons and independent research" />
 </p>
 
 - Looking to build a community dedicated to growth and shared interests.
@@ -45,23 +45,29 @@ I enjoy interacting with people, and I am often surprised by the tangents that g
 ## Connect With Me
 
 <p align="left">
-  <a href="https://dev.to/yesirat_sanni_1234" title="Dev.to"><img src="https://cdn.simpleicons.org/devdotto/FFFFFF" width="32" height="32" alt="Dev.to" /></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/yesiratadesolasanni/" title="LinkedIn"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="32" height="32" alt="LinkedIn" /></a>&nbsp;&nbsp;
-  <a href="https://x.com/ade_s_ola?s=11" title="X"><img src="https://cdn.simpleicons.org/x/FFFFFF" width="32" height="32" alt="X" /></a>&nbsp;&nbsp;
-  <a href="https://instagram.com/adesolasanni" title="Instagram"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="32" height="32" alt="Instagram" /></a>&nbsp;&nbsp;
-  <a href="https://tiktok.com/@yesiratsanni" title="TikTok"><img src="https://cdn.simpleicons.org/tiktok/FFFFFF" width="32" height="32" alt="TikTok" /></a>&nbsp;&nbsp;
-  <a href="https://youtube.com/@theyesiratsanni" title="YouTube"><img src="https://cdn.simpleicons.org/youtube/FF0000" width="32" height="32" alt="YouTube" /></a>&nbsp;&nbsp;
-  <a href="https://pinterest.com/@YesiratSanni" title="Pinterest"><img src="https://cdn.simpleicons.org/pinterest/BD081C" width="32" height="32" alt="Pinterest" /></a>&nbsp;&nbsp;
-  <a href="https://yesy01.github.io/YesiratSanni/" title="Portfolio"><img src="https://cdn.simpleicons.org/googlechrome/FFAB00" width="32" height="32" alt="Portfolio" /></a>&nbsp;&nbsp;
-  <a href="mailto:theyesiratsanni@gmail.com" title="Email"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="32" height="32" alt="Email" /></a>
+  <a href="https://cal.com/yesirat-sanni-vr9mz3/15min"><img src="https://img.shields.io/badge/Book%20a%20Meeting-FFAB00?style=for-the-badge&logo=caldotcom&logoColor=111827" alt="Book a 15-minute meeting" /></a>
+</p>
+
+<p align="left">
+  <a href="https://dev.to/yesirat_sanni_1234"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" /></a>
+  <a href="https://www.linkedin.com/in/yesiratadesolasanni/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/ade_s_ola?s=11"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://instagram.com/adesolasanni"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://tiktok.com/@yesiratsanni"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
+  <a href="https://youtube.com/@theyesiratsanni"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://pinterest.com/@YesiratSanni"><img src="https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest" /></a>
+  <a href="https://yesy01.github.io/YesiratSanni/"><img src="https://img.shields.io/badge/Portfolio-2C2C2C?style=for-the-badge&logo=googlechrome&logoColor=FFAB00" alt="Portfolio" /></a>
+  <a href="mailto:theyesiratsanni@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ## GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Yesy01&show_icons=true&theme=tokyonight&title_color=ffab00&icon_color=ffab00&hide_border=true&bg_color=00000000&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Yesy01&layout=compact&theme=tokyonight&title_color=ffab00&icon_color=ffab00&hide_border=true&bg_color=00000000&langs_count=8" alt="Top languages" />
+  <img height="165" src="./profile/stats.svg" alt="GitHub repository statistics" />
+  <img height="165" src="./profile/top-langs.svg" alt="Most used languages across visible repositories" />
 </p>
+
+<p align="center"><sub>Generated from repositories visible to the workflow. Language percentages reflect code volume, not proficiency.</sub></p>
 
 ## Contribution Graph
 

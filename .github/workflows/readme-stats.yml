@@ -25,17 +25,17 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=Yesy01&show_icons=true&theme=transparent&title_color=FFAB00&text_color=F5F5F5&icon_color=FFAB00&border_color=2C2C2C
+          options: username=Yesy01&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&title_color=FFAB00&text_color=F5F5F5&icon_color=FFAB00&border_color=2C2C2C
           path: profile/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.README_STATS_TOKEN || secrets.GITHUB_TOKEN }}
 
       - name: Generate top languages card
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=Yesy01&layout=compact&langs_count=6&theme=transparent&title_color=FFAB00&text_color=F5F5F5&border_color=2C2C2C
+          options: username=Yesy01&layout=compact&langs_count=8&hide=Makefile&theme=transparent&title_color=FFAB00&text_color=F5F5F5&border_color=2C2C2C
           path: profile/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.README_STATS_TOKEN || secrets.GITHUB_TOKEN }}
 
       - name: Commit cards
         run: |
