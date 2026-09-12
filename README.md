@@ -63,11 +63,11 @@ I enjoy interacting with people, and I am often surprised by the tangents that g
 ## GitHub Stats
 
 <p align="center">
-  <img height="165" src="./profile/stats.svg" alt="GitHub repository statistics" />
-  <img height="165" src="./profile/top-langs.svg" alt="Most used languages across visible repositories" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Yesy01&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&title_color=ffab00&icon_color=ffab00&hide_border=true&bg_color=00000000" alt="GitHub repository statistics" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Yesy01&layout=compact&hide=Makefile&theme=tokyonight&title_color=ffab00&icon_color=ffab00&hide_border=true&bg_color=00000000&langs_count=8" alt="Most used languages across visible repositories" />
 </p>
 
-<p align="center"><sub>Generated from repositories visible to the workflow. Language percentages reflect code volume, not proficiency.</sub></p>
+<p align="center"><sub>Language percentages reflect code volume across visible repositories, not proficiency.</sub></p>
 
 ## Contribution Graph
 
